@@ -1,0 +1,20 @@
+[
+  {
+    "reservation_id": "40218781-0438-4b4c-b2c1-ed01bf7c0241",
+    "hotel_id": "9cf6a9f2-3278-4d06-b8d5-7723888bd71e",
+    "customer_id": "e39e8a79-862c-4294-9e82-5ef4a38b711c",
+    "check_in": "2025-03-10T00:00:00",
+    "check_out": "2025-03-15T00:00:00",
+    "num_rooms": 1,
+    "status": "active"
+  },
+  {
+    "reservation_id": "b4120e95-9a25-4667-ba7b-425c6a478685",
+    "hotel_id": "OAS01",
+    "customer_id": "KAPF007",
+    "check_in": "2025-03-16T00:00:00",
+    "check_out": "2025-03-25T00:00:00",
+    "num_rooms": 2,
+    "status": "active"
+  }
+]

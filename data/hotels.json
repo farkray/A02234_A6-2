@@ -1,0 +1,30 @@
+[
+  {
+    "hotel_id": "9cf6a9f2-3278-4d06-b8d5-7723888bd71e",
+    "name": "Hotel Transilvania",
+    "location": "Transilvania sin n\u00famero",
+    "total_rooms": 20,
+    "available_rooms": 19
+  },
+  {
+    "hotel_id": "OAS01",
+    "name": "Oasis del Desierto",
+    "location": "Sahara, km 45",
+    "total_rooms": 35,
+    "available_rooms": 10
+  },
+  {
+    "hotel_id": "AUR02",
+    "name": "Aurora Boreal Lodge",
+    "location": "Laponia, Finlandia",
+    "total_rooms": 15,
+    "available_rooms": 5
+  },
+  {
+    "hotel_id": "ATLA5",
+    "name": "Atlantis Resort",
+    "location": "Fondo del oc\u00e9ano Atl\u00e1ntico",
+    "total_rooms": 50,
+    "available_rooms": 30
+  }
+]

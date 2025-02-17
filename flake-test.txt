@@ -1,0 +1,228 @@
+Nombre del archivo analizado: main.py
+Fecha: 2025-02-16 22:12:57
+Resultado:
+main.py:2:1: F401 'models.Hotel' imported but unused
+main.py:2:1: F401 'models.Customer' imported but unused
+main.py:2:1: F401 'models.Reservation' imported but unused
+main.py:3:80: E501 line too long (81 > 79 characters)
+main.py:7:1: E302 expected 2 blank lines, found 1
+main.py:21:80: E501 line too long (89 > 79 characters)
+main.py:27:1: E305 expected 2 blank lines after class or function definition, found 1
+main.py:28:11: W292 no newline at end of file
+
+-------------------------------------------------------------
+Nombre del archivo analizado: main.py
+Fecha: 2025-02-16 22:14:19
+Resultado:
+main.py:2:80: E501 line too long (81 > 79 characters)
+
+-------------------------------------------------------------
+Nombre del archivo analizado: main.py
+Fecha: 2025-02-16 22:15:01
+Resultado:
+Sin errores detectados.
+-------------------------------------------------------------
+Nombre del archivo analizado: console_ui.py
+Fecha: 2025-02-16 22:15:24
+Resultado:
+console_ui.py:4:1: E302 expected 2 blank lines, found 1
+console_ui.py:5:80: E501 line too long (86 > 79 characters)
+console_ui.py:5:87: W291 trailing whitespace
+console_ui.py:16:1: W293 blank line contains whitespace
+console_ui.py:49:1: W293 blank line contains whitespace
+console_ui.py:51:1: W293 blank line contains whitespace
+console_ui.py:77:1: W293 blank line contains whitespace
+console_ui.py:79:1: W293 blank line contains whitespace
+console_ui.py:104:1: W293 blank line contains whitespace
+console_ui.py:106:1: W293 blank line contains whitespace
+console_ui.py:128:1: W293 blank line contains whitespace
+console_ui.py:137:1: W293 blank line contains whitespace
+console_ui.py:152:80: E501 line too long (80 > 79 characters)
+console_ui.py:153:80: E501 line too long (102 > 79 characters)
+console_ui.py:154:1: W293 blank line contains whitespace
+console_ui.py:155:9: F841 local variable 'hotel' is assigned to but never used
+console_ui.py:177:1: W293 blank line contains whitespace
+console_ui.py:185:80: E501 line too long (80 > 79 characters)
+console_ui.py:186:1: W293 blank line contains whitespace
+console_ui.py:202:1: W293 blank line contains whitespace
+console_ui.py:203:9: F841 local variable 'customer' is assigned to but never used
+console_ui.py:224:1: W293 blank line contains whitespace
+console_ui.py:228:1: W293 blank line contains whitespace
+console_ui.py:231:1: W293 blank line contains whitespace
+console_ui.py:235:80: E501 line too long (81 > 79 characters)
+console_ui.py:241:80: E501 line too long (95 > 79 characters)
+console_ui.py:242:1: W293 blank line contains whitespace
+console_ui.py:259:51: W292 no newline at end of file
+
+-------------------------------------------------------------
+Nombre del archivo analizado: console_ui.py
+Fecha: 2025-02-16 22:16:40
+Resultado:
+console_ui.py:161:80: E501 line too long (80 > 79 characters)
+console_ui.py:196:80: E501 line too long (80 > 79 characters)
+console_ui.py:246:80: E501 line too long (81 > 79 characters)
+console_ui.py:252:80: E501 line too long (80 > 79 characters)
+
+-------------------------------------------------------------
+Nombre del archivo analizado: console_ui.py
+Fecha: 2025-02-16 22:18:14
+Resultado:
+console_ui.py:161:80: E501 line too long (80 > 79 characters)
+console_ui.py:196:80: E501 line too long (80 > 79 characters)
+console_ui.py:254:80: E501 line too long (80 > 79 characters)
+
+-------------------------------------------------------------
+Nombre del archivo analizado: console_ui.py
+Fecha: 2025-02-16 22:24:58
+Resultado:
+console_ui.py:260:80: E501 line too long (80 > 79 characters)
+
+-------------------------------------------------------------
+Nombre del archivo analizado: console_ui.py
+Fecha: 2025-02-16 22:26:04
+Resultado:
+console_ui.py:259:80: E501 line too long (80 > 79 characters)
+
+-------------------------------------------------------------
+Nombre del archivo analizado: console_ui.py
+Fecha: 2025-02-16 22:27:18
+Resultado:
+console_ui.py:259:80: E501 line too long (80 > 79 characters)
+
+-------------------------------------------------------------
+Nombre del archivo analizado: console_ui.py
+Fecha: 2025-02-16 22:28:22
+Resultado:
+console_ui.py:284:51: W292 no newline at end of file
+
+-------------------------------------------------------------
+Nombre del archivo analizado: console_ui.py
+Fecha: 2025-02-16 22:28:36
+Resultado:
+Sin errores detectados.
+-------------------------------------------------------------
+Nombre del archivo analizado: models.py
+Fecha: 2025-02-16 22:29:55
+Resultado:
+models.py:3:1: E302 expected 2 blank lines, found 1
+models.py:4:80: E501 line too long (82 > 79 characters)
+models.py:10:1: W293 blank line contains whitespace
+models.py:19:1: W293 blank line contains whitespace
+models.py:31:1: E302 expected 2 blank lines, found 1
+models.py:37:1: W293 blank line contains whitespace
+models.py:45:1: W293 blank line contains whitespace
+models.py:55:1: E302 expected 2 blank lines, found 1
+models.py:56:77: W291 trailing whitespace
+models.py:65:1: W293 blank line contains whitespace
+models.py:76:1: W293 blank line contains whitespace
+models.py:88:27: W292 no newline at end of file
+
+-------------------------------------------------------------
+Nombre del archivo analizado: models.py
+Fecha: 2025-02-16 22:31:33
+Resultado:
+Sin errores detectados.
+-------------------------------------------------------------
+Nombre del archivo analizado: repository.py
+Fecha: 2025-02-16 22:31:55
+Resultado:
+repository.py:5:1: E302 expected 2 blank lines, found 1
+repository.py:9:1: W293 blank line contains whitespace
+repository.py:14:1: W293 blank line contains whitespace
+repository.py:23:1: W293 blank line contains whitespace
+repository.py:35:1: E302 expected 2 blank lines, found 1
+repository.py:39:1: W293 blank line contains whitespace
+repository.py:44:1: W293 blank line contains whitespace
+repository.py:52:1: W293 blank line contains whitespace
+repository.py:55:1: W293 blank line contains whitespace
+repository.py:57:1: W293 blank line contains whitespace
+repository.py:65:1: W293 blank line contains whitespace
+repository.py:71:1: W293 blank line contains whitespace
+repository.py:77:1: E302 expected 2 blank lines, found 1
+repository.py:81:1: W293 blank line contains whitespace
+repository.py:86:1: W293 blank line contains whitespace
+repository.py:94:1: W293 blank line contains whitespace
+repository.py:97:1: W293 blank line contains whitespace
+repository.py:99:1: W293 blank line contains whitespace
+repository.py:107:1: W293 blank line contains whitespace
+repository.py:113:1: W293 blank line contains whitespace
+repository.py:119:1: E302 expected 2 blank lines, found 1
+repository.py:123:1: W293 blank line contains whitespace
+repository.py:128:1: W293 blank line contains whitespace
+repository.py:136:1: W293 blank line contains whitespace
+repository.py:139:1: W293 blank line contains whitespace
+repository.py:141:1: W293 blank line contains whitespace
+repository.py:149:1: W293 blank line contains whitespace
+repository.py:153:80: E501 line too long (89 > 79 characters)
+repository.py:155:1: W293 blank line contains whitespace
+repository.py:160:1: W293 blank line contains whitespace
+repository.py:164:80: E501 line too long (87 > 79 characters)
+repository.py:166:1: W293 blank line contains whitespace
+repository.py:170:80: E501 line too long (96 > 79 characters)
+repository.py:171:73: W292 no newline at end of file
+
+-------------------------------------------------------------
+Nombre del archivo analizado: repository.py
+Fecha: 2025-02-16 22:33:38
+Resultado:
+Sin errores detectados.
+-------------------------------------------------------------
+Nombre del archivo analizado: services.py
+Fecha: 2025-02-16 22:33:53
+Resultado:
+services.py:4:80: E501 line too long (81 > 79 characters)
+services.py:6:1: E302 expected 2 blank lines, found 1
+services.py:7:80: E501 line too long (93 > 79 characters)
+services.py:11:80: E501 line too long (80 > 79 characters)
+services.py:22:1: W293 blank line contains whitespace
+services.py:25:1: W293 blank line contains whitespace
+services.py:29:80: E501 line too long (81 > 79 characters)
+services.py:29:82: W291 trailing whitespace
+services.py:30:21: E128 continuation line under-indented for visual indent
+services.py:42:80: E501 line too long (85 > 79 characters)
+services.py:49:1: E302 expected 2 blank lines, found 1
+services.py:50:80: E501 line too long (99 > 79 characters)
+services.py:63:80: E501 line too long (83 > 79 characters)
+services.py:65:1: W293 blank line contains whitespace
+services.py:68:1: W293 blank line contains whitespace
+services.py:72:80: E501 line too long (84 > 79 characters)
+services.py:72:85: W291 trailing whitespace
+services.py:73:24: E128 continuation line under-indented for visual indent
+services.py:89:1: E302 expected 2 blank lines, found 1
+services.py:90:80: E501 line too long (86 > 79 characters)
+services.py:90:87: W291 trailing whitespace
+services.py:96:80: E501 line too long (85 > 79 characters)
+services.py:97:26: E128 continuation line under-indented for visual indent
+services.py:102:1: W293 blank line contains whitespace
+services.py:107:1: W293 blank line contains whitespace
+services.py:113:1: W293 blank line contains whitespace
+services.py:117:1: W293 blank line contains whitespace
+services.py:120:73: W291 trailing whitespace
+services.py:121:33: E128 continuation line under-indented for visual indent
+services.py:122:1: W293 blank line contains whitespace
+services.py:125:1: W293 blank line contains whitespace
+services.py:129:1: W293 blank line contains whitespace
+services.py:137:1: W293 blank line contains whitespace
+services.py:140:1: W293 blank line contains whitespace
+services.py:144:1: W293 blank line contains whitespace
+services.py:147:1: W293 blank line contains whitespace
+services.py:151:1: W293 blank line contains whitespace
+services.py:152:20: W292 no newline at end of file
+
+-------------------------------------------------------------
+Nombre del archivo analizado: services.py
+Fecha: 2025-02-16 22:37:10
+Resultado:
+services.py:20:80: E501 line too long (80 > 79 characters)
+
+-------------------------------------------------------------
+Nombre del archivo analizado: services.py
+Fecha: 2025-02-16 22:37:53
+Resultado:
+Sin errores detectados.
+-------------------------------------------------------------
+Nombre del archivo analizado: main.py
+Fecha: 2025-02-16 22:45:51
+Resultado:
+Sin errores detectados.
+-------------------------------------------------------------
